@@ -22,6 +22,6 @@ Prerequisites:
   - `torchvision==0.3.0`
   - `tqdm==4.45.0`
   - `numba==0.48`
-Lip-syncing videos using the pre-trained models (Inference) and two other files in detailed explanation : The result is saved in output/output_voice.mp4.
+Lip-syncing videos using the pre-trained models (Inference) and two other files in detailed explanation Wav2Lip_simplified_v5.ipynb and wav2lip_simplified_v5. are available to know how the task is been performed: The result is saved in output/output_voice.mp4.
 
 The link to google colab notebook : https://colab.research.google.com/drive/18tKguAcugTcPihg4TtthgDyWUGuX4evh?usp=sharing
