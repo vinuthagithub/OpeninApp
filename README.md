@@ -4,7 +4,7 @@ The link to google colab notebook :
 The input files used are: https://colab.research.google.com/drive/18tKguAcugTcPihg4TtthgDyWUGuX4evh?usp=sharing
 * Vedio:https://openinapp.co/5cwva
 * Audio:https://openinapp.co/o9vuj
-Used Wav2Lip to lipsync using pretrained model downloaded using https://github.com/Rudrabha/Wav2Lip and https://colab.research.google.com/github/justinjohn0306/Wav2Lip/blob/master/Wav2Lip_simplified_v5.ipynb#scrollTo=Qgo-oaI3JU2u
+* Used Wav2Lip to lipsync using pretrained model downloaded using https://github.com/Rudrabha/Wav2Lip and https://colab.research.google.com/github/justinjohn0306/Wav2Lip/blob/master/Wav2Lip_simplified_v5.ipynb#scrollTo=Qgo-oaI3JU2u
 Prerequisites:
 
 - **Python Version:** Python 3.6
